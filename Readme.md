@@ -1,5 +1,5 @@
 # Quiz Application
-
+[Visit Quiz Site](https://harrypotterquiz-ash.netlify.app/)
 ## Overview
 
 The **Quiz Application** is a dynamic and interactive quiz game built using **JavaScript** and **HTML**. This app allows users to participate in a quiz with different difficulty levels, track their scores, and view a leaderboard showcasing the top players. The application is designed with a theme that incorporates fun, competitive elements with an engaging interface.
